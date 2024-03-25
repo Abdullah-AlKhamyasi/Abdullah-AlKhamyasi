@@ -15,6 +15,10 @@ Drop me a line for some fun chats about AI, ML, or anything else related to data
  
 ## 🛠️ Toolkit for Innovation
 
+Here's the updated toolkit with each tool or framework represented by the correct color and logo:
+
+## 🛠️ Toolkit for Innovation
+
 ### Languages & Frameworks
 
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -35,8 +39,7 @@ Drop me a line for some fun chats about AI, ML, or anything else related to data
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![Adobe AI](https://img.shields.io/badge/Adobe%20AI-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
-
+![Adobe AI](https://img.shields.io/badge/Adobe%20AI-410137?style=for-the-badge&logo=adobe&logoColor=white)
 
 ### AI & Project Management
 
