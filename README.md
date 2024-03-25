@@ -15,7 +15,7 @@ Drop me a line for some fun chats about AI, ML, or anything else related to data
  
 ## 🛠️ Toolkit for Innovation
 
-Here's the updated toolkit with each tool or framework represented by the correct color and logo:
+Here's the updated toolkit with each tool or framework represented by the correct colour and logo:
 
 ## 🛠️ Toolkit for Innovation
 
@@ -51,13 +51,13 @@ Here's the updated toolkit with each tool or framework represented by the correc
 Let's wield these tools together to forge new paths in the realms of data analytics, AI, and beyond! 💡💻🚀
 # 📊 My Digital Footprint
 <p align="center">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ABZ119&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ABZ119&layout=compact&langs_count=8&theme=algolia"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abdullah-AlKhamyasi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abdullah-AlKhamyasi&layout=compact&langs_count=8&theme=algolia"/>
 </p>
  
 ## 🔗 Streaks & Contributions
  
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ABZ119&theme=algolia" alt="Mansuri98" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-AlKhamyasi&theme=algolia" alt="Abdullah-AlKhamyasi" /></p>
  
 ### 💡 Random Dev Quote:
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
