@@ -48,7 +48,12 @@ Here's the updated toolkit with each tool or framework represented by the correc
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
- 
+Let's wield these tools together to forge new paths in the realms of data analytics, AI, and beyond! 💡💻🚀
+# 📊 My Digital Footprint
+<p align="center">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abdullah-AlKhamyasi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abdullah-AlKhamyasi&layout=compact&langs_count=8&theme=algolia"/>
+</p> 
 ## 🔗 Streaks & Contributions
  
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-AlKhamyasi&theme=algolia" alt="Abdullah-AlKhamyasi" /></p>
